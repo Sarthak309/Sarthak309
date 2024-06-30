@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak Agrawal</h1>
 <h3 align="center">A passionate iOS App Developer from India</h3>
 
-- 🔭 I’m currently working in **Curie Microelectronics** as an iOS/Android Developer
+- 🔭 I’m currently working in **LiveInTech Venture Studios** as an iOS Developer
 
 - 🌱 I’m currently learning **SwiftData and iOS 17**
 
