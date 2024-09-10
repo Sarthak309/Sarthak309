@@ -50,6 +50,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=apple" height="40" alt="Apple logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring logo"  />
+  <img width="12" />
   
 </div>
 
