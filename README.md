@@ -54,9 +54,8 @@
   <img width="12" />
   
 </div>
-<br>
-
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak309&show_icons=true&locale=en&layout=compact" alt="sarthak309" /></p>
 
-###
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak309&show_icons=true&locale=en" alt="sarthak309" /></p>
+</div>
