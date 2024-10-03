@@ -54,6 +54,9 @@
   <img width="12" />
   
 </div>
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak309&show_icons=true&locale=en&layout=compact" alt="sarthak309" /></p>
 
 ###
 
